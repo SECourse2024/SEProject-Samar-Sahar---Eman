@@ -1,0 +1,44 @@
+Persona : Lina 
+Lina is a 32-year-old single accountant based in Amman, Jordan. She enjoys spending weekends with friends and family. After completing a degree in Accounting from the University of Jordan, she started working as an accountant for a mid-sized retail company specializing in fashion and accessories. With seven years of experience in financial management, she has developed expertise in managing accounts payable and receivable, tracking cash flow, and preparing financial reports.
+
+Recently, Lina has taken on the additional responsibility of integrating inventory insights into financial planning to ensure better alignment between stock levels and payment schedules. Her role requires close collaboration with the warehouse and procurement teams to monitor stock-related expenses and ensure timely and accurate supplier payments. However, she faces challenges when inventory data doesn’t match invoices, leading to delays in payment processing due to human errors and inefficiencies in the spreadsheet-based tracking system. Lina strives to maintain precise records while optimizing cash flow to satisfy suppliers and build strong relationships with them.
+
+______________________________________________________________________________
+
+Scenario: Lina Manages Payment Planning with Inventory Insights
+Lina is preparing the monthly payment schedule for suppliers at her retail company, which specializes in fashion and accessories. A large shipment of winter jackets has just been received, and the invoice is due in two weeks. To avoid cash flow issues and ensure the payment matches the received goods, Lina logs into the inventory management system to review stock data and payment details.
+
+From her office computer, she logs into the inventory management system using her corporate credentials. The system recognizes her role as an accountant and customizes the interface to show financial tools and inventory insights relevant to her responsibilities. Her personalized dashboard includes sections for “Pending Payments,” “Supplier Invoices,” and “Stock Reconciliation.”
+
+Lina selects the “Stock Reconciliation” tool to cross-check the supplier’s invoice against the received inventory. The system automatically matches the shipment details from the warehouse (e.g., 500 winter jackets, item codes, and quantities) with the invoice from the supplier. A notification highlights that the recorded quantities and invoiced amounts are consistent, giving Lina confidence to proceed.
+
+Next, she navigates to the “Payment Planner” app. The system displays all pending supplier invoices, categorized by due date and amount. Lina filters the list to prioritize invoices due within the next 15 days. The app integrates with real-time inventory turnover data, showing her which stock items are selling quickly and which are moving slowly. This helps her decide how to allocate funds effectively.
+
+Lina selects the winter jacket invoice and schedules the payment for 10 days before the due date to maintain a positive relationship with the supplier. She also sets up a recurring reminder to check the inventory turnover rate for this product line in case reordering is needed.
+
+After scheduling the payment, Lina uses the “Reports” feature to generate a summary of all supplier payments for the month. She exports the report as a PDF and shares it with her manager, along with her observations about cash flow and stock trends.
+
+Lina logs out of the system, confident that her planning aligns inventory data with financial operations, ensuring smooth and efficient payment processes.
+
+______________________________________________________________________________ 
+
+User Stories for Lina (Accountant)
+User Story 1:
+As an Accountant,
+I want to seamlessly integrate inventory insights into financial planning,
+so that I can ensure accurate supplier payments 
+
+User Story 2:
+As an Accountant,
+I want to generate detailed financial reports based on inventory and payments,
+so that I can provide data-driven insights for better budgeting and forecasting.
+
+User Story 3:
+As an Accountant,
+I want to receive automated alerts for invoice mismatches,
+so that I can quickly resolve discrepancies and avoid payment delays.
+
+ User Story 4:
+As an Accountant,
+I want to access historical supplier payment records,
+so that I can track trends and negotiate better terms with suppliers.

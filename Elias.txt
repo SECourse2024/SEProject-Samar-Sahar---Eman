@@ -1,0 +1,40 @@
+Persona : Elias
+Elias is a 29-year-old Customer Support Reporter based in the West Bank, Palestine. He works for a fast-growing e-commerce company specializing in electronics and gadgets. After completing a degree in Information Technology from Al-Najah University, Elias quickly found opportunities in customer service roles within tech companies. He started as an entry-level support agent but soon moved up to the position of Customer Support Reporter due to his passion for problem-solving and technical expertise.
+
+As a Customer Support Reporter, Elias plays a crucial role in ensuring that customers receive accurate and up-to-date information about product availability and order status. However, he sometimes faces challenges with order tracking due to data inconsistencies or system lags. Customers occasionally request updates about backordered or out-of-stock products, and Elias often feels pressure to manage expectations and provide satisfying responses, especially when the Excel-based data sheet shows discrepancies. He strives to reduce customer frustration by anticipating issues with stock availability and resolving them before they escalate into complaints. Elias also aims to be proactive in providing feedback to the product and logistics teams to enhance the overall customer experience.
+
+______________________________________________________________________________
+
+Scenario : Elias Uses an Inventory Management System to Enhance Customer Support
+
+Elias is starting his shift as a Customer Support Reporter for a fast-growing e-commerce company specializing in electronics and gadgets. A new promotion on wireless headphones has led to a surge in customer inquiries, with many asking about stock availability and shipping timelines. Elias knows how important it is to provide quick and accurate responses to ensure customer satisfaction.
+
+From his workstation, Elias logs into the company’s inventory management system, integrated with customer support tools. The system recognizes his role and presents a dashboard tailored for support agents. It includes sections like “Live Stock Levels,” “Order Status Tracker,” and “Customer Insights.”
+
+The first ticket Elias receives is from a customer asking whether a specific wireless headphone model is still in stock. Elias searches for the product using the “Live Stock Levels” tool. The system displays real-time inventory data, showing that the item is in low stock but still available for immediate shipping. Armed with this information, Elias assures the customer that they can place the order and provides an estimated delivery time based on the warehouse’s shipping queue.
+
+Later, Elias encounters a more challenging case—a customer is frustrated because their recent order for a gaming laptop has been delayed. The “Order Status Tracker” shows the order is on hold due to the laptop being temporarily out of stock. Using the “Stock Insights” tab, Elias discovers that the item is part of a shipment expected to arrive in two days. He communicates this update to the customer, apologizes for the delay, and offers a small discount on their next purchase to maintain goodwill.
+
+Elias also notices a recurring issue with another popular product—a smartphone accessory that has been backordered multiple times. To prevent future customer frustration, he uses the “Feedback Tool” in the system to flag this issue for the product and logistics teams. He recommends increasing stock levels for high-demand items during promotions to avoid backorders.
+
+Toward the end of his shift, Elias reviews the “Customer Insights” section, which highlights common queries related to stock availability. He creates a quick-reference document with the latest stock statuses and expected restock dates for frequently asked items. This allows him to provide faster responses during peak hours.
+
+By the end of the day, Elias has handled dozens of inquiries with efficiency and accuracy. The inventory management system has not only helped him provide better service but also reduced his stress by eliminating the need to rely on outdated spreadsheets or manually cross-check data. Elias logs out, feeling confident that his proactive approach has improved the customer experience and supported the company’s reputation for reliability.
+
+_________________________________________________________________________________
+
+User Stories for Elias (Customer Support Reporter)
+User Story 1:
+As a Customer Support Reporter,
+I want to quickly access real-time stock levels and order status,
+so that I can provide accurate and timely responses to customer inquiries, ensuring satisfaction and reduced frustration.
+
+User Story 2:
+As a Customer Support Reporter,
+I want to proactively report stock issues and backorders to the logistics team,
+so that I can prevent future delays and enhance customer experience.
+
+User Story 3:
+As a Customer Support Reporter,
+I want to have a quick-reference document for frequently asked stock-related inquiries,
+so that I can respond faster and reduce response time during peak hours.

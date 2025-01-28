@@ -1,0 +1,51 @@
+Persona : Sammy
+Sammy, age 34, is the founder and CEO of a growing e-commerce startup. Born in Manchester, UK, he lives with his wife and their two-year-old child. After completing a degree in Business Management from Birmingham University, he founded his e-commerce startup, selling eco-friendly home goods. His company has grown from managing a few products out of his garage to a full warehouse operation with over 300 SKUs. The team now includes five full-time employees and several part-time workers.
+
+Sammy is ambitious and determined to scale his business further, but he feels overwhelmed managing inventory manually using spreadsheets. He understands the importance of operational efficiency but struggles to find a solution that meets his company’s needs without being overly complex or expensive.
+
+______________________________________________________________________________
+
+Scenario : Sammy Uses Inventory Management Software to Streamline Operations
+Sammy is preparing for a major promotional campaign for his e-commerce startup, which specializes in eco-friendly home goods. With the sale expected to significantly increase order volume, he needs to ensure inventory levels are accurate and restocking is planned efficiently to avoid stockouts or delays.
+
+From his home office, Sammy logs into the inventory management system using his startup's credentials. The system recognizes his role as the founder and CEO, displaying a customized dashboard featuring “Stock Overview,” “Reorder Alerts,” and “Sales Insights.” The interface is simple and intuitive, designed to help business owners quickly access critical data.
+
+Sammy clicks on “Stock Overview” to review inventory levels for his best-selling products, including bamboo kitchenware and reusable cleaning supplies. The system highlights low-stock items in red, showing that bamboo cutting boards are below the reorder threshold. Sammy clicks on the alert to view more details.
+
+The system displays a report combining real-time stock levels, current sales trends, and supplier lead times. Sammy notices that cutting boards have a supplier lead time of 10 days and decides to reorder immediately. Using the integrated “Reordering Tool,” he places an order with the supplier, selecting the recommended restock quantity calculated by the system based on historical sales data and the upcoming promotion.
+
+Next, Sammy navigates to the “Sales Insights” section to analyze trends in his product catalog. The system provides a visual breakdown of sales performance, showing that reusable cleaning wipes are trending upwards, while certain eco-friendly planters are moving slower than expected. Sammy decides to include cleaning wipes in the upcoming campaign and create a discount bundle to clear out the slower-moving planters.
+
+To ensure cash flow remains stable, Sammy uses the “Financial Planner” tool to check how the reorder will impact his budget. The system automatically matches supplier costs with expected revenue from sales, offering a forecast that reassures Sammy his finances can accommodate the purchase. He schedules the supplier payment for two days after receiving the stock to maintain a positive cash flow.
+
+Finally, Sammy sets up “Reorder Alerts” for all critical Stock Keeping Units so he’ll receive automatic notifications when inventory levels fall below the threshold. He also shares a summary of the inventory plan and financial projections with his warehouse manager and his accountant, ensuring everyone is aligned.
+
+After logging out of the system, Sammy feels relieved knowing the inventory is optimized, and his team has the tools they need to handle the promotional campaign successfully. With a few clicks, he has managed to save hours of manual work and eliminate the stress of inventory mismanagement.
+
+______________________________________________________________________________
+
+User Stories for Sammy (Founder & CEO of an E-commerce Startup)
+User Story 1
+As a Founder and CEO,
+I want real-time inventory and reorder alerts,
+so that I can manage stock efficiently and avoid stockouts.
+
+User Story 2
+As a Founder and CEO,
+I want to track sales trends,
+so that I can optimize promotions and inventory for business growth.
+
+User Story 3
+As a Founder and CEO,
+I want to compare turnover rates across categories,
+so that I can make decisions on product expansion or discontinuation.
+
+User Story 4
+As a Founder and CEO,
+I want to set minimum stock thresholds,
+so that I can prevent stockouts and maintain smooth operations.
+
+User Story 5
+As a Founder and CEO,
+I want to automate reorders,
+so that I can save time and maintain consistent inventory replenishment.
