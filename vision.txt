@@ -1,7 +1,4 @@
 Our Product Vision: 
-For a startup business founder WHO needs accounting
-basics functionality with an interactive web page,The Accounting Star is a 
-web-based service that provides marketing features and sales tracking
-that helps founder to elevate and develop his business. Unlike other
-services or package software products, OUR product provides very helpful
-reports, services and high level performance at a moderate cost.
+FOR a startup founder WHO needs to manage products store accurately and quickly with an interactive web page,
+the "Inventory Manager" is A web-based service that provides management features and tracking of purchase orders, stock products and deliveries, Which helps the founder to advance and develop his business. Unlike others services or bundled software products,
+OUR product offers high-level reporting, services, and performance at a moderate cost.
